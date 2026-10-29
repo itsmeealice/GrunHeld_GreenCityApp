@@ -13,7 +13,13 @@ GrünHeld encourages citizens to take an active role in caring for urban trees a
 ## App Prototype — Grünheld
 
 This Stitch prototype (Google’s UI design tool, similar to Figma) showcases the Grünheld app concept, including its main screens, features, and user flows. It illustrates how users can discover trees, report care activities, earn Green Points, explore environmental data, and access local rewards.
+
+Prototype Design: 
 https://stitch.withgoogle.com/projects/10206617381523172074
+
+App representation (workflow) on the phone directly:
+https://stitch.withgoogle.com/preview/10206617381523172074?node-id=c024a067849a43d095678847fea7d4c1
+
 Note: This is a prototype for demonstration purposes; not all features are fully functional or connected to live data. 
 
 ## Dataset Visualization
