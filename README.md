@@ -1,4 +1,4 @@
-# GrunHeld_GreenCityApp
+# GrünHeld_GreenCityApp
 
 Welcome to the GrünHeld repository! GrünHeld is a community-driven application concept designed to help make Heilbronn, Germany, greener by connecting citizens, environmental data, local businesses, and the city.
 
