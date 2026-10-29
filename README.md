@@ -20,6 +20,9 @@ Note: This is a prototype for demonstration purposes; not all features are fully
 
 The heatmap visualizes temperature and humidity data across three regions—Innenstadt, Neckar, and Wartberg—utilizing datasets recorded via a Mobile Datalogger. Disseminating data regarding highly vulnerable urban zones—specifically detailing temperature variance and humidity levels indices—not only fosters civic awareness but also drives data-informed decision-making for targeted planting initiatives and better information of how much water is needed. To this end, thermal heat mapping serves as an essential analytical tool, with integrations being a possible upgrade anytime. 
 
+How to visualize:
+Download the HTML code onto your machine and you will be able to look at it. 
+
 ## Grünsensor 
 
 The Grünsensor measures soil moisture and connects directly to the Android app via a USB-C cable. It does not use Wi-Fi or Bluetooth. This is a deliberate design choice: a wired connection means the sensor needs no battery, so users have no charging or battery replacement to worry about. The result is a simple, reliable, and easy-to-use setup.
